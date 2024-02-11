@@ -1,5 +1,5 @@
 # NewTrelloClone
-Developed in pure Javascript
+Developed in pure Javascript and HTML5
 
 <p float="left">
 
